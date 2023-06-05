@@ -100,8 +100,29 @@ p.venue {
 }
 
 
-.small {
-  font-weight: 100 !important;
+.slide .small {
+  font-weight: 400 !important;
+}
+
+.slide h2 {
+  font-weight: 500 !important;
+  margin-bottom: 85px !important;
+}
+
+.slide ul {
+  margin-left: 200px !important;
+}
+
+.slide ul>li>ul {
+  margin-left: 75px !important;
+}
+
+.lower>img {
+  margin-top: 100px;
+}
+
+.imgtitle {
+  margin-top: -50px
 }
 
 /* 

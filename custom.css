@@ -95,6 +95,10 @@ p.venue {
   background: #292F4D;
 }
 
+.todo {
+  color: red !important
+}
+
 /* 
 .shower .label {
   position: absolute;

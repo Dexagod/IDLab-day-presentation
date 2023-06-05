@@ -99,6 +99,11 @@ p.venue {
   color: red !important
 }
 
+
+.small {
+  font-weight: 100 !important;
+}
+
 /* 
 .shower .label {
   position: absolute;

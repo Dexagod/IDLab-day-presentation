@@ -95,10 +95,9 @@ p.venue {
   background: #292F4D;
 }
 
-.todo {
+.todo > h2 {
   color: red !important
 }
-
 
 .slide .small {
   font-weight: 400 !important;
@@ -121,10 +120,21 @@ p.venue {
   margin-top: 100px;
 }
 
-.imgtitle {
-  margin-top: -50px
+.higher {
+  margin-top: -50px !important;
 }
 
+.author > a {
+  background-image: none !important
+}
+
+.title > h2 {
+  line-height: .9em !important;
+}
+
+.icon>img {
+  opacity: 80%;
+}
 /* 
 .shower .label {
   position: absolute;
